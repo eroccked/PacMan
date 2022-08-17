@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PacMan",
+			"Path": "C:\\Users\\erocc\\Desktop\\PacMan\\Source\\PacMan.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PacManEditor",
+			"Path": "C:\\Users\\erocc\\Desktop\\PacMan\\Source\\PacManEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

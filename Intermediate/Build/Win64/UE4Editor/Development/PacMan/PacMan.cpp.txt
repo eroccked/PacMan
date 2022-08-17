@@ -1,0 +1,2 @@
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Development\PacMan\Definitions.PacMan.h
+C:\Users\erocc\Desktop\PacMan\Source\PacMan\PacMan.h

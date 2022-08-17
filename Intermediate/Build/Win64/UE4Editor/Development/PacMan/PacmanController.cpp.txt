@@ -1,0 +1,5 @@
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Development\PacMan\Definitions.PacMan.h
+C:\Users\erocc\Desktop\PacMan\Source\PacMan\PacmanController.h
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Inc\PacMan\PacmanController.generated.h
+C:\Users\erocc\Desktop\PacMan\Source\PacMan\PacmanPawn.h
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Inc\PacMan\PacManPawn.generated.h

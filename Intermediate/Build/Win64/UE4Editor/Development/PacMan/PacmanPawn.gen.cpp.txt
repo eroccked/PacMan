@@ -1,0 +1,5 @@
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Development\PacMan\Definitions.PacMan.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\erocc\Desktop\PacMan\Source\PacMan/PacmanPawn.h
+C:\Users\erocc\Desktop\PacMan\Intermediate\Build\Win64\UE4Editor\Inc\PacMan\PacManPawn.generated.h
